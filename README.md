@@ -25,8 +25,8 @@ languages.
 
 <a href="https://www.linkedin.com/in/welberth-heider-magalhaes-de-araujo/" target="_blank"><img alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-Welberth%20Heider-blue?logo=linkedin"></a>
-<a href="https://www.instagram.com/welberthheider/"><img alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-Welberth%20Heider-blue?logo=Instagram" target="_blank"></a>
+<a href="https://www.instagram.com/welberthheider/" target="_blank"><img alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-Welberth%20Heider-blue?logo=Instagram"></a>
 <a href="mailto:welberthheider@gmail.com" target="_blank"><img alt="Email"
     src="https://img.shields.io/badge/Email-welberthheider%40gmail.com-blue?logo=gmail"></a>
 
