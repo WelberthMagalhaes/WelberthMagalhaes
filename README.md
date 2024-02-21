@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welberth Magalhães
 
-<!--
-**WelberthMagalhaes/WelberthMagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+  - 🙋🏽‍♂️ A Fullstack Developer passionate about technology, continuously seeking to acquire new skills and explore new languages.
+  - 🎓 Graduated in Information Systems at Federal University of Ouro Preto.
+  - 💼 Currently seeking job opportunities in the market.
+  - 🌱 I’m currently learning **PHP-Laravel** with **Vue.JS and **C#**. 
 
-Here are some ideas to get you started:
+## Skills
+  - 💻 PHP | JavaScript | Python | Java
+  - 🛢 SQLServer | PostgreSQL 
+  - ⚙️ GIT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Interests
+- 🔎 JavaScript | NodeJS | Typescript.
+  
+## How to contact me: ...
