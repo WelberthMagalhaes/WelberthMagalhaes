@@ -5,8 +5,8 @@
 - 🙋🏽‍♂️ &nbsp; A Full Stack Developer passionate about technology, continuously seeking to acquire new skills and explore new
 languages.
 - 🎓 &nbsp; Graduated in Information Systems at Federal University of Ouro Preto.
-- 💼 &nbsp; Currently seeking job opportunities in the market.
-- 🌱 &nbsp; I’m currently learning **PHP-Laravel** with **Vue.JS** and **C#**.
+- 💼 &nbsp; Fullstack Developer at Acessórias.
+- 🌱 &nbsp; I’m currently learning **PHP-Laravel** with **Vue.JS**.
 
 <h3>🧰 Skills</h3>
 
@@ -17,7 +17,7 @@ languages.
 
 <h3>💡 Interests</h3>
 
-- 🔎 &nbsp; JavaScript | NodeJS | Typescript.
+- 🔎 &nbsp; PHP | Laravel | NodeJS | Typescript.
 
 <h3>💬 How to contact me: </h3>
 
