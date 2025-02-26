@@ -10,7 +10,7 @@ languages.
 
 <h3>🧰 Skills</h3>
 
-- 💻 &nbsp; PHP | JavaScript | Python | Java
+- 💻 &nbsp; PHP | Laravel | JavaScript | Python | Java
 - 🛢 &nbsp; SQLServer | PostgreSQL
 - ⚙️ &nbsp; GIT.
 
